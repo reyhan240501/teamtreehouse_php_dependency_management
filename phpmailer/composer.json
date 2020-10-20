@@ -1,0 +1,15 @@
+{
+    "name": "reyhan/project_phpmailer",
+    "description": "Tes phpmailer to server gmail",
+    "type": "project",
+    "authors": [
+        {
+            "name": "reyhan",
+            "email": "reyhanferdiyan1@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "league/oauth2-google": "^3.0"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "asus/composer",
+    "description": "Aleena Project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "muhammad reyhan rizki ferdiyan",
+            "email": "70565254+reyhan240501@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "ckeditor/ckeditor": "^4.15",
+        "league/oauth2-google": "^3.0",
+        "ezyang/htmlpurifier": "^4.13"
+    }
+}
